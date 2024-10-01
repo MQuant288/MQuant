@@ -55,6 +55,6 @@ If you find MQUANT useful in your research, please consider citing our paper:
   title={MQUANT: Unleashing the Inference Potential of Multimodal Large Language Models via Full Static Quantization},
   author={Your Name and Co-authors},
   booktitle={International Conference on Learning Representations (ICLR)},
-  year={2024},
+  year={2025},
   url={https://openreview.net/forum?id=yourpaperid}
 }
