@@ -6,7 +6,7 @@
 
 **MQUANT** is a state-of-the-art framework designed to optimize the inference efficiency of multimodal large language models (LLMs) through comprehensive static quantization techniques. By significantly reducing model size and computational overhead, MQUANT enables faster and more cost-effective deployments of sophisticated AI models without compromising their performance.
 
-This repository accompanies our ICLR 2024 paper titled **"MQUANT: UNLEASHING THE INFERENCE POTENTIAL OF MULTIMODAL LARGE LANGUAGE MODELS VIA FULL STATIC QUANTIZATION"**. The proposed quantization methods are meticulously evaluated on the Qwen2-VL-7B model, showcasing substantial improvements in both efficiency and accuracy.
+This repository accompanies our ICLR 2025 paper titled **"MQUANT: UNLEASHING THE INFERENCE POTENTIAL OF MULTIMODAL LARGE LANGUAGE MODELS VIA FULL STATIC QUANTIZATION"**. The proposed quantization methods are meticulously evaluated on the Qwen2-VL-7B model, showcasing substantial improvements in both efficiency and accuracy.
 
 ## Table of Contents
 
